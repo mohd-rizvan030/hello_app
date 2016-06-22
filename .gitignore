@@ -1,0 +1,9 @@
+.idea
+npm-debug.log
+.DS_Store
+.~lock.*.csv#
+*.orig
+*~
+*.swp
+*.lock
+*.patch

@@ -1,0 +1,18 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-23 01:05:54 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/rizvan/.rvm/gems/ruby-2.1.2/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (4.5ms)
+Completed 200 OK in 62ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2016-06-23 01:06:10 +0530
+Processing by Rails::InfoController#properties as */*
+  Rendered /home/rizvan/.rvm/gems/ruby-2.1.2/gems/railties-4.2.2/lib/rails/templates/rails/info/properties.html.erb (0.7ms)
+Completed 200 OK in 162ms (Views: 12.5ms | ActiveRecord: 28.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-23 01:29:11 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/rizvan/.rvm/gems/ruby-2.1.2/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
